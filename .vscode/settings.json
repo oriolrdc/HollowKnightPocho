@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "HollowPocho.sln"
+    "dotnet.defaultSolution": "HollowKnightPocho.sln"
 }
